@@ -39,7 +39,7 @@
     "humanizedBaseName": "JHipster Registry",
     "jhiPrefix": "jhi",
     "jhipsterVersion": "7.9.3",
-    "jwtSecretKey": "NmQ3NTY1NjhlZGY2NmEzNzUxMjFkZDVmNTA3YjRiNWIxMzM2ZGRiNDNlYjFkMDc2YzdlYTgzYjVkNTNlZGU0NTdiNDg5OTUyNTZjYmNiYjlkMWNjNjE5MTE2NjVhZjM2MmZkYTdiYjRkNGZiMDU5MzhmMDIzYTE4ZjQ3ZTVmMTU=",
+    "jwtSecretKey": "MmY2MzRmMTBjNDhlZGZlZmY2MDJiZDBmZTE1MGEyMDY2MjA1YjQ0MjA4MDdhYWZkMjA4NzU3MjdhMzM3YTEwYzRiODk2NzAwZGNhZmIzMWNhZTI0MTEwN2ViZTYwOGQ2YzViYzdmYzViMzU5MTIyYjk4NGE4MWQ4MDc2ZjNhMjM=",
     "languages": ["en", "fr"],
     "messageBroker": false,
     "nativeLanguage": "en",
